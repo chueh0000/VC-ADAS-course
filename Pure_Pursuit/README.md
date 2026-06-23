@@ -17,3 +17,12 @@
 
 ### Comparison between Feedback Delays
 ![](Pure_Pursuit_4.png)
+
+## CarSim
+![](Pure_Pursuit_7.png)
+
+### Comparison with Simulink State Space Model
+![](Pure_Pursuit_8.png)
+
+### Comparison between Feedback Delays
+![](Pure_Pursuit_9.png)
